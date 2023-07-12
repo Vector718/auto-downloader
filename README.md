@@ -1,4 +1,4 @@
-#Script to automate download
+## Script to automate download
 
 A last minute script to download files from s3 bucket before it got terminated :D
 
